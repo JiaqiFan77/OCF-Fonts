@@ -206,289 +206,289 @@ function clone(element: Record<'src' | 'id' | 'col', string>) {
 const sourceImages = ref([
 		{
 			id: 1,//编号
-			src: '/images/zy1.png',//图片路径
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy1.png',//图片路径
 			visible: false,//是否可见
 			col: 1 //占用几格
 		},
 		{
 			id: 2,
-			src: '/images/zy2.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy2.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 3,
-			src: '/images/zy3.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy3.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 4,
-			src: '/images/zy4.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy4.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 5,
-			src: '/images/zy5.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy5.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 6,
-			src: '/images/zy6.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy6.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 7,
-			src: '/images/zy7.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy7.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 8,
-			src: '/images/zy8.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy8.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 9,
-			src: '/images/zy9.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy9.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 10,
-			src: '/images/zy10.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy10.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 11,
-			src: '/images/zy11.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy11.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 12,
-			src: '/images/zy12.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy12.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 13,
-			src: '/images/zy13.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy13.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 14,
-			src: '/images/zy14.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy14.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 15,
-			src: '/images/zy15.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy15.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 16,
-			src: '/images/zy16.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy16.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 17,
-			src: '/images/zy17.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy17.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 18,
-			src: '/images/zy18.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy18.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 19,
-			src: '/images/zy19.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy19.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 20,
-			src: '/images/zy20.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy20.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 21,
-			src: '/images/zy21.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy21.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 22,
-			src: '/images/zy22.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy22.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 23,
-			src: '/images/zy23.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy23.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 24,
-			src: '/images/zy24.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy24.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 25,
-			src: '/images/zy25.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy25.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 26,
-			src: '/images/zy26.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy26.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 27,
-			src: '/images/zy27.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy27.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 28,
-			src: '/images/zy28.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy28.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 29,
-			src: '/images/zy29.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy29.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 30,
-			src: '/images/zy30.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy30.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 31,
-			src: '/images/zy31.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy31.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 32,
-			src: '/images/zy32.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy32.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 33,
-			src: '/images/zy33.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy33.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 34,
-			src: '/images/zy34.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy34.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 35,
-			src: '/images/zy35.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy35.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 36,
-			src: '/images/zy36.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy36.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 37,
-			src: '/images/zy37.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy37.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 38,
-			src: '/images/zy38.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy38.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 39,
-			src: '/images/zy39.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy39.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 40,
-			src: '/images/zy40.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy40.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 41,
-			src: '/images/zy41.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy41.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 42,
-			src: '/images/zy42.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy42.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 43,
-			src: '/images/zy43.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy43.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 44,
-			src: '/images/zy44.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy44.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 45,
-			src: '/images/zy45.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy45.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 46,
-			src: '/images/zy46.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy46.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 47,
-			src: '/images/zy47.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy47.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 48,
-			src: '/images/zy48.png',
+			src: 'https://jiaqifan77.github.io/OCF-Fonts/images/zy48.png',
 			visible: false,
 			col: 1
 		}
