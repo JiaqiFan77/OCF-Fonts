@@ -206,289 +206,289 @@ function clone(element: Record<'src' | 'id' | 'col', string>) {
 const sourceImages = ref([
 		{
 			id: 1,//编号
-			src: '../../images/资源 1.png',//图片路径
+			src: '.../images/资源 1.png',//图片路径
 			visible: false,//是否可见
 			col: 1 //占用几格
 		},
 		{
 			id: 2,
-			src: '../../images/资源 2.png',
+			src: '.../images/资源 2.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 3,
-			src: '../../images/资源 3.png',
+			src: '.../images/资源 3.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 4,
-			src: '../../images/资源 4.png',
+			src: '.../images/资源 4.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 5,
-			src: '../../images/资源 5.png',
+			src: '.../images/资源 5.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 6,
-			src: '../../images/资源 6.png',
+			src: '.../images/资源 6.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 7,
-			src: '../../images/资源 7.png',
+			src: '.../images/资源 7.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 8,
-			src: '../../images/资源 8.png',
+			src: '.../images/资源 8.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 9,
-			src: '../../images/资源 9.png',
+			src: '.../images/资源 9.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 10,
-			src: '../../images/资源 10.png',
+			src: '.../images/资源 10.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 11,
-			src: '../../images/资源 11.png',
+			src: '.../images/资源 11.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 12,
-			src: '../../images/资源 12.png',
+			src: '.../images/资源 12.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 13,
-			src: '../../images/资源 13.png',
+			src: '.../images/资源 13.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 14,
-			src: '../../images/资源 14.png',
+			src: '.../images/资源 14.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 15,
-			src: '../../images/资源 15.png',
+			src: '.../images/资源 15.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 16,
-			src: '../../images/资源 16.png',
+			src: '.../images/资源 16.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 17,
-			src: '../../images/资源 17.png',
+			src: '.../images/资源 17.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 18,
-			src: '../../images/资源 18.png',
+			src: '.../images/资源 18.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 19,
-			src: '../../images/资源 19.png',
+			src: '.../images/资源 19.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 20,
-			src: '../../images/资源 20.png',
+			src: '.../images/资源 20.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 21,
-			src: '../../images/资源 21.png',
+			src: '.../images/资源 21.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 22,
-			src: '../../images/资源 22.png',
+			src: '.../images/资源 22.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 23,
-			src: '../../images/资源 23.png',
+			src: '.../images/资源 23.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 24,
-			src: '../../images/资源 24.png',
+			src: '.../images/资源 24.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 25,
-			src: '../../images/资源 25.png',
+			src: '.../images/资源 25.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 26,
-			src: '../../images/资源 26.png',
+			src: '.../images/资源 26.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 27,
-			src: '../../images/资源 27.png',
+			src: '.../images/资源 27.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 28,
-			src: '../../images/资源 28.png',
+			src: '.../images/资源 28.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 29,
-			src: '../../images/资源 29.png',
+			src: '.../images/资源 29.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 30,
-			src: '../../images/资源 30.png',
+			src: '.../images/资源 30.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 31,
-			src: '../../images/资源 31.png',
+			src: '.../images/资源 31.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 32,
-			src: '../../images/资源 32.png',
+			src: '.../images/资源 32.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 33,
-			src: '../../images/资源 33.png',
+			src: '.../images/资源 33.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 34,
-			src: '../../images/资源 34.png',
+			src: '.../images/资源 34.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 35,
-			src: '../../images/资源 35.png',
+			src: '.../images/资源 35.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 36,
-			src: '../../images/资源 36.png',
+			src: '.../images/资源 36.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 37,
-			src: '../../images/资源 37.png',
+			src: '.../images/资源 37.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 38,
-			src: '../../images/资源 38.png',
+			src: '.../images/资源 38.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 39,
-			src: '../../images/资源 39.png',
+			src: '.../images/资源 39.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 40,
-			src: '../../images/资源 40.png',
+			src: '.../images/资源 40.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 41,
-			src: '../../images/资源 41.png',
+			src: '.../images/资源 41.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 42,
-			src: '../../images/资源 42.png',
+			src: '.../images/资源 42.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 43,
-			src: '../../images/资源 43.png',
+			src: '.../images/资源 43.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 44,
-			src: '../../images/资源 44.png',
+			src: '.../images/资源 44.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 45,
-			src: '../../images/资源 45.png',
+			src: '.../images/资源 45.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 46,
-			src: '../../images/资源 46.png',
+			src: '.../images/资源 46.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 47,
-			src: '../../images/资源 47.png',
+			src: '.../images/资源 47.png',
 			visible: false,
 			col: 1
 		},
 		{
 			id: 48,
-			src: '../../images/资源 48.png',
+			src: '.../images/资源 48.png',
 			visible: false,
 			col: 1
 		}
