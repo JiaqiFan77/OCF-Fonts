@@ -87,7 +87,7 @@ const exportFontPDF = async () => {
 
     // 添加背景图
     const bgImage = new Image();
-    bgImage.src = '/images/bg1.png'; // 替换为你的背景图路径
+    bgImage.src = 'https://jiaqifan77.github.io/OCF-Fonts/images/bg1.png'; // 替换为你的背景图路径
 
     bgImage.onload = () => {
         const imgWidth = pdf.internal.pageSize.width;
