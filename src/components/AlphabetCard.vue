@@ -117,10 +117,10 @@ const exportPDF = async () => {
 
     // 加载 bg.png 图片
     const bgImage = new Image();
-    bgImage.src = '/images/bg.png';
+    bgImage.src = 'https://jiaqifan77.github.io/OCF-Fonts/images/bg.png';
 
     const logoImage = new Image();
-    logoImage.src = '/images/logo.png';
+    logoImage.src = 'https://jiaqifan77.github.io/OCF-Fonts/images/logo.png';
 
     logoImage.onload = () => {
         bgImage.onload = async () => {
