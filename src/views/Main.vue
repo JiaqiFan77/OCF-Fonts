@@ -61,11 +61,7 @@
 								Enjoy creating and designing your distinctive fonts!
 							</div>
 						</DraggableResizableModel>
-				</div>
-			</a-col>
-			<a-col :span="10">
-				<div>
-					<DraggableResizableModel
+						<DraggableResizableModel
 						:headerText="'Alphabet'"
 						:headerBgColor="'#ff032f'"
 						:headerTextColor="'#ffffff'"
@@ -73,7 +69,7 @@
 						:initHeight="60"
 						:maxHeight="1510"
 						:maxWidth="958"
-						:initX="-925"
+						:initX="-92"
 						:init-y="525"
 						:lockStatus="true"
 						:visible="alphabetVisible"
@@ -91,7 +87,7 @@
 							:initHeight="60"
 							:maxHeight="913"
 							:maxWidth="300"
-							:initX="-925"
+							:initX="-92"
 							:init-y="605"
 							:lockStatus="true"
 							:visible="patternsVisible"
@@ -116,7 +112,7 @@
 							:initHeight="60"
 							:max-height="761"
 							:max-width="764"
-							:initX="-925"
+							:initX="-92"
 							:init-y="685"
 							:visible="buildVisible"
 							:lockStatus="true"
@@ -155,6 +151,11 @@
 							></BuildFontsFactory>
 						</VueDraggable>
 					</DraggableResizableModel>
+				</div>
+			</a-col>
+			<a-col :span="10">
+				<div>
+					
 				</div>
 			</a-col>
 		</a-row>
